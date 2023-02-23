@@ -1,9 +1,9 @@
-/* TODO: Label selector type */
+/* * means universal selector */
 * {
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   }
 
-/* TODO: Label selector type */
+/* "body" selects all the content under the body tag */
 body {
   background-color: lemonchiffon;
 }
@@ -22,12 +22,12 @@ figure {
   background-color: #f0ead6;
 }
 
-/* TODO: Label selector type */
+/* this selector selects all elements that are under the class of "highlighted-text" */
 .highlighted-text {
   font-weight: bolder;
 }
 
-/* TODO: Label selector type */
+/* this selector selects all elements that are under the ID of "contact-section" */
 #contact-section {
   background-color: #f0ead6;
 }

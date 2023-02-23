@@ -4,17 +4,22 @@
   }
   
 .section-blue {
-
+  line-height: 100px;
+  color: orange;
+  background-color: blue
 }
   
 .container {
-
+  background-color: black;
+  color:white
 }
 
 #section-1 {
-
+  font-size: 26px;
+  background-color: purple;
+  color: yellow
 }
 
 #section-6 {
-
+  color: yellow
 }
